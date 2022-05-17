@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Ramis. A self-taught junior frontend developer<img align="right" src="https://komarev.com/ghpvc/?username=rgdzv&color=ff0000&style=for-the-badge" alt="profile views">
+### I'm Ramis. A self-taught frontend developer<img align="right" src="https://komarev.com/ghpvc/?username=rgdzv&color=ff0000&style=for-the-badge" alt="profile views">
 
 
 - 🔭 I’m currently working on interesting projects
